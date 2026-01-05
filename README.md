@@ -69,10 +69,10 @@ lib/
 
 # 📱 Dokumentasi Aplikasi📱
 1. Dashboard
-   <img src="cots/assets/ss/dash.JPEG" width="300" />
+   <img src="cots/assets/SS/dash.jpeg" width="300" />
 2. Daftar Tugas
-   <img src="cots/assets/ss/daft.JPEG" width="300" />
+   <img src="cots/assets/SS/daft.jpeg" width="300" />
 3. Detail Tugas
-   <img src="cots/assets/ss/dt.JPEG" width="300" />
+   <img src="cots/assets/SS/dt.jpeg" width="300" />
 4. Tambah Tugas
-   <img src="cots/assets/ss/tt.JPEG" width="300" />
+   <img src="cots/assets/SS/tt.jpeg" width="300" />
